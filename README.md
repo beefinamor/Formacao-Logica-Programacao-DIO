@@ -1,7 +1,7 @@
 # Formacao-Logica-Programacao-DIO
 Repositório para armazenar o desafio proposto na DIO:
 
-#Escrevendo as Classes de um Jogo
+# Escrevendo as Classes de um Jogo
 Objetivo:
 Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
